@@ -1,3 +1,4 @@
+Git STASH command example..
 I am from Dev branch....
 This is updated code 
 his file contains Deployment script
